@@ -1,8 +1,8 @@
 import Head from 'next/head';
-import Header from '@components/Header';
-import Footer from '@components/Footer';
-import ProductConfigurator from '@components/ProductConfigurator';
-import ContactForm from '@components/ContactForm';
+import Header from '../components/Header';
+import Footer from '../components/Footer';
+import ProductConfigurator from '../components/ProductConfigurator';
+import ContactForm from '../components/ContactForm';
 
 export default function Home() {
   return (
